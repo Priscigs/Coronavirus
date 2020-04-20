@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Coronavirus</string>
+    <string name="covid_image">Covid Imagen</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="title">Title</string>
+    <string name="covid_text">Coronavirus</string>
+    <string name="name_text">Nombre</string>
+    <string name="age_text">Edad</string>
+    <string name="info">    </string>
+    <string name="virus_button">Virus</string>
+    <string name="symthoms_button">Síntomas</string>
+    <string name="indi_button">Indicaciones</string>
+    <string name="info_text">
+    </string>
+    <string name="infom_text">POCO PROBABLE</string>
+    <string name="prob_text">Probabilidad de Riesgo</string>
+    <string name="comment_button">Comentar</string>
+    <string name="comment_text">Comentario</string>
+    <string name="coronavirus_text">¿Qué es el Covid-19?</string>
+    <string name="description_text">
+        \n\nLos coronavirus (CoV) son una amplia familia de virus que pueden causar diversas afecciones, desde el resfriado común hasta enfermedades más graves, como ocurre con el coronavirus causante del síndrome respiratorio de Oriente Medio (MERS-CoV) y el que ocasiona el síndrome respiratorio agudo severo (SRAS-CoV).
+        \n\nUn nuevo coronavirus es una nueva cepa de coronavirus que no se había encontrado antes en el ser humano.
+        \n\nLos coronavirus se pueden contagiar de los animales a las personas (transmisión zoonótica).
+        \nDe acuerdo con estudios exhaustivos al respecto, sabemos que el SRAS-CoV se transmitió de la civeta al ser humano y que se ha producido transmisión del MERS-CoV del dromedario al ser humano.
+        \nAdemás, se sabe que hay otros coronavirus circulando entre animales, que todavía no han infectado al ser humano.
+    </string>
+    <string name="sintomas_text">¿Cuáles son los síntomas?</string>
+    <string name="des">
+        \n\nEsas infecciones suelen cursar con fiebre y síntomas respiratorios (tos y disnea o dificultad para respirar). 
+        \nEn los casos más graves, pueden causar neumonía, síndrome respiratorio agudo severo, insuficiencia renal e, incluso, la muerte.
+    </string>
+    <string name="com_button">Comentar</string>
+    <string name="ind_text">Algunas indicaciones si contrae el virus</string>
+    <string name="indicaciones">
+        \n\nLas personas infectadas por el virus que causa el Covid-19 deben guardar cuarentena desde el diagnóstico de la enfermedad hasta 15 días después de ser dadas de alta.
+        \n\nAsí lo aconseja la OMS porque se ha observado que, aunque ya estén recuperadas, pueden seguir transmitiendo la infección.
+    </string>
+    <string name="info2_text">Son más resistentes</string>
+    <string name="info3_text">Probable</string>
+    <string name="info4_text">Más de una de 5 personas necesita ser ingresada al hospital</string>
+    <string name="info5_text">Alto Riesgo</string>
+    <string name="edad_text">Edad (0-100)</string>
+</resources>
